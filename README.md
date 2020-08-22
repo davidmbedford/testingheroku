@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+... ... ... ... ... 
+#Testing Heroku 
+## I made this repo to test the deployment of react apps to heroku. As new updates occur, sometimes the basic reactapp structure is incompatible with Heroku. 
+When I updated my portfolio's dependencies and reserved it to Heroku on Aug 21st2020 - along with other semantic updates - it resulted in an application error. My goal is to use this repository to see if it is purely a Heroku x React issue. 
+
+I edited only one line of code in App.js. I added JSX to make clear this was a reactapp from my machine. No other files were touched.  
+
+... ... ... ... ... 
 
 ## Available Scripts
 
