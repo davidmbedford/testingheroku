@@ -6,6 +6,9 @@ When I updated my portfolio's dependencies and (re)served it to Heroku on Aug 21
 
 I edited only one line of code in App.js. I added JSX to make clear this was a reactapp from my machine. No other files were touched.  
 
+__Updates__:
+On 08.22.2020, at approx. 4:55pm, this app failed to serve to heroku. Given it is a vanilla (create) react app, this confirms my *hypothesis*: there is an issue with react's (esp. react-scripts') most recent updates. 
+
 ... ... ... ... ... 
 
 ## Available Scripts
